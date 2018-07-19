@@ -17,5 +17,5 @@ class Dog
   end
 end
 
-lassie = Dog.new
+lassie = Dog.new("Mutt")
 lassie.breed = Mutt
